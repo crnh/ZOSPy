@@ -1,7 +1,7 @@
 # ZOSPy
 
 ## About
-Wrapper around the [Zemax OpticStudio](https://www.zemax.com/pages/opticstudio) API that provides a more pythonic and intuitive way to interact with the ZOS-API through python using a .NET connection. It also takes care of initiating the connection.
+Wrapper around the [Zemax OpticStudio](https://www.zemax.com/pages/opticstudio) API that provides a more pythonic and intuitive way to interact with the ZOS-API through python using a .NET connection. It thereby allows you to focus on the optics moddeling instead of putting lots of efforts in complicated coding.
 
 ## Waranty and liability
 The code is provided as is, without any warranty. It is solely intended for research purposes. No warranty is given and no rights can be derived from it, as is also stated in the [GNU General Public License Version 3](https://github.com/MREYE-LUMC/ZOSPy/blob/b26c2627d625f19545159dbf938847a9ebaf5a67/LICENSE.txt).
